@@ -1,9 +1,11 @@
 [submodule "riscv-linux"]
 	path = boards/default/linux
-	url = https://github.com/firesim/linux.git
+	url = https://github.com/Constellation-FPGA/linux.git
+	branch = firesim-fp-xcpt
 [submodule "opensbi"]
 	path = boards/default/firmware/opensbi
-	url = https://github.com/riscv/opensbi.git
+	url = https://github.com/Constellation-FPGA/opensbi.git
+	branch = firesim-fp-xcpt
 [submodule "boards/default/distros/br/buildroot"]
 	path = boards/default/distros/br/buildroot
 	url = https://github.com/buildroot/buildroot.git
