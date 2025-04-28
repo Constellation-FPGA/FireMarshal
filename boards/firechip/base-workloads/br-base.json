@@ -1,5 +1,6 @@
 {
   "name" : "br-base",
+  "rootfs-size": "10GB",
   "distro" : {
       "name" : "br",
       "opts" : {
